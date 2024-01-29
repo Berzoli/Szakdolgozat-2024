@@ -5,6 +5,7 @@
     RewriteCond %{REQUEST_FILENAME} !-d
     RewriteRule ^pages/([^\.]+)$ pages/$1.php [NC,L]
 
+    ErrorDocument 404 http://localhost/szakdolgozat/TeleMancs/pages/404
     
 </IfModule>
 

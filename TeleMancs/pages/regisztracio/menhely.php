@@ -12,7 +12,7 @@
 
     <h1>Menhely</h1>
     <form action="../../backend/register/animalshelter.php" method="post">
-        <!-- AnimalShelter input field -->
+        
 
         <div>
             <label for="animalshelter">Menhely neve:</label>

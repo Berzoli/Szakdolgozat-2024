@@ -77,7 +77,14 @@
        
         #search {
             background-color: lightgray;
-            padding: 20px;
+            padding: 40px;
+            margin-top: 20px;
+            display: flex;
+        }
+
+        #searchBar form {
+            display: flex;
+            justify-content: space-between;
         }
 
     </style>
